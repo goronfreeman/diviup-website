@@ -1,0 +1,9 @@
+/*img {
+  animation: spin 10s linear infinite;
+  width: 80%;
+}
+
+@keyframes spin {
+  from { transform: rotate(0); }
+  to { transform: rotate(360deg); }
+}*/
