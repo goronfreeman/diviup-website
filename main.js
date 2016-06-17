@@ -1,5 +1,8 @@
 $(function() {
-  $('.test').slick({
-    dots: true
+  $('.tutorial').slick({
+    autoplay: true,
+    autoplaySpeed: 6000,
+    infinite: true,
+    pauseOnHover: false
   });
 });
